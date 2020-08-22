@@ -1,8 +1,61 @@
-## Welcome to GitHub Pages
+## Renato Lobo Rodrigues Júnior
+```markdown
+Brasileiro, Solteiro, 32 anos.
+Rua Reinor Rabelo Reis, 173 – 2º andar – Sol Nascente, Cataguases – MG
+renatolobojr@gmail.com | (32) 9 9918-1811 (vivo)
+Disponível para morar em outra cidade e para viagens
+```
+### Formação
+```markdown
+• Engenharia de Controle e Automação      –   CEFET/MG 	       Conclusão: Julho/2019
 
-You can use the [editor on GitHub](https://github.com/renatolobojr/curriculum-vitae/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+• Especialista em Fundamentos Lean        –   Voitto
+• Certificação em Yellow Belt Six Sigma   –   Voitto e 6sigmaStudy
+• Certificação em Scrum Fundamentals      –   SCRUMStudy
+• Certificação em Marketing Digtal        –   Rock Content
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+• CREA:   04.0.0000249139/D
+•  CNH:   Categoria  A
+```
+### Idiomas
+```markdown
+Inglês intermediário
+Espanhol Básico
+```
+### Vivência Profissional
+
+#### Projetista em Eletrônica Embarcada, Autônomo – Abril/2015 – Atual
+```markdown 
+Desenvolvimento de dispositivos de larga usabilidade, confecção de placas de circuitos integrado, 
+utilização de sensores e atuadores, programação em microcontroladores PIC, ATmel e placas de 
+prototipação como arduino, nodeMCU e raspberry pi.
+```
+**Desenhista Cadista, Autônomo – Janeiro/2007 – Atual**
+```markdown
+Desenvolvimento de plantas, projetos em 2D e 3D.
+```
+
+### Experiência Profissional
+
+**Auxiliar Administrativo**, Prefeitura Municipal de Leopoldina. - Abril/2018 - Atual
+Atendimento ao público, cadastramentos, organização e arquivamento de documentos.
+
+**Agente de pesquisa e Mapeamento**, IBGE – Julho/2017 – Março/2018
+Convertendo para meios digitais formulários fornecidos por cartórios, preenchendo questionários e coletando dados localmente e por telefone visando a realização de pesquisas estatísticas.
+
+Estágio como Desenhista Cadista, Metalúrgica P&G Ltda. - Julho/2016 – Dezembro/2016
+Levantamento do projeto 3D de peças e equipamentos.
+
+Estágio como Designer de Aplicativos, Solutech – Março/2014 a Junho/2014
+Design de aplicativos para telefones móveis, confecção e criação de banners e arte-final. 
+
+Desenhista Cadista, Companhia Industrial Cataguases – Julho/2007 – Fevereiro/2009
+Levantamento da planta baixa de todas as dependências da empresa e de suas filiais. Participação do desenvolvimento de projetos mecânicos, confecção de planilhas e indicadores da manutenção, Criação de layouts para os escritórios, além do acompanhamento das obras e reformas.
+
+Auxiliar Administrativo, Varejão Master Cataguases – Outubro/2004 – Fevereiro/2005
+Preenchimento de planilhas, pagamentos, controle e estoque.
+
+
 
 ### Markdown
 
