@@ -1,31 +1,59 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>Meu primeiro Hello World! </title>
-  </head>
-  
-  <body>
-    <h1>Curriculum Vitae</h1>
-    <h6>ainda em construção. desculpe o transtorno. :)</h6>
-    <p>
-      Brasileiro, Solteiro, 32 anos<br>
-      Rua Reinor Rabelo Reis, 173 – 2º andar – Sol Nascente, Cataguases – MG<br>
-      <a href="mailto:renatolobojr@gmail.com">renatolobojr@gmail.com<a><br>
-      Disponível para morar em outra cidade e para viagens
-    </p>
-    <h2>Formação</h2>
-        <ul>
-          <li>Engenharia de Controle e Automação – CEFET/MG - Conclusão: Julho/2019</li>
-          <li>CREA: 04.0.0000249139/D   CNH: A</li>
-          <li>Especialista em Fundamentos Lean (Manufacturing)</li>
-          <li>Certificação em Yellow Belt</li>
-          <li>Certificação em SCRUM fundamentals</li>
-          <li>Certificação em Marketing Digital</li>
-        </ul>
-    <h2>Idiomas</h2>
-        <ul>
-          <li>Inglês Intermediário</li>
-          <li>Espanhol Básico</li>
-        </ul>
-  </body>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <!-- development version, includes helpful console warnings -->
+    <script src="https://cdn.jsdelivr.net/npm/vue@2/dist/vue.js"></script>
+
+    <!-- production version, optimized for size and speed -->
+    <!--script src="https://cdn.jsdelivr.net/npm/vue@2"></script-->
+
+    <title>titulo exemplo</title>
+</head>
+
+<body>
+    <div id="app">
+        <p>{{titulo}}</p>
+        <p>{{saudacao()}}</p>
+        <a :href="link">Google</a>
+        <p>{{cont}} - {{cont<10? 'menor que 10' : 'maior ou igual a 10'}}</p>
+        <button v-on:click="somar">X++</button>
+    
+    </div>
+</body>
 </html>
+
+<script>
+/** sintaxe reduzida - shorthands
+ *  :   v-bind:
+ *  @   v-on:
+*/
+
+    new Vue({           //construtor do objeto Vue
+        el: '#app',     //ele controla a div com a id app (#app)
+        data: {         //declara os atributos do objeto Vue
+            titulo: "Vue.js",
+            link:"../../www.google.com",
+            cont: 0
+        },
+        methods: {      //declara os métodos do objeto Vue
+            saudacao() {
+                return "Bom dia"
+            },
+            somar(){
+                this.cont++
+            }
+        }
+    })
+    //da pra colocar script javascript vanilla 
+    //aqui em baixo, ainda irei testar
+
+</script>
+
+<style>
+    /**/
+</style>
