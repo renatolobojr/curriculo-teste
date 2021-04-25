@@ -1,9 +1,10 @@
 ## Renato Lobo Rodrigues Júnior
 ```markdown
-Brasileiro, Solteiro, 32 anos.
-Rua Reinor Rabelo Reis, 173 – 2º andar – Sol Nascente, Cataguases – MG
-renatolobojr@gmail.com | (32) 9 9918-1811 (vivo)
-Disponível para morar em outra cidade e para viagens
+Engenheiro de controle e automação 
+
+pós-graduando em Gestão de projetos
+
+Me aperfeiçoando no mundo Web
 ```
 ### Principais Projetos
 
