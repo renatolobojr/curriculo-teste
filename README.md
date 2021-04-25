@@ -1,4 +1,6 @@
-# Renato Lobo Rodrigues Júnior  
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatolobo-engenheiro/)](https://www.linkedin.com/in/renatolobo-engenheiro/)
+ 
 Engenheiro de Controle e Automação  
 Pós-graduando em Gestão de Projetos  
 Me aperfeiçoando no mundo Web
