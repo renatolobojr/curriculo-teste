@@ -1,11 +1,11 @@
-## Renato Lobo Rodrigues Júnior
-```markdown
-Engenheiro de controle e automação 
+# Renato Lobo Rodrigues Júnior
 
-pós-graduando em Gestão de projetos
+### Engenheiro de Controle e Automação 
+
+### Pós-graduando em Gestão de Projetos
 
 Me aperfeiçoando no mundo Web
-```
+
 ### Principais Projetos
 
 [Portifólio e Blog](www.google.com) (em construção)
