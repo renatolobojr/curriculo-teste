@@ -5,15 +5,12 @@ Rua Reinor Rabelo Reis, 173 – 2º andar – Sol Nascente, Cataguases – MG
 renatolobojr@gmail.com | (32) 9 9918-1811 (vivo)
 Disponível para morar em outra cidade e para viagens
 ```
-### Formação
-```markdown
-• Engenharia de Controle e Automação      –   CEFET/MG 	       Conclusão: Julho/2019
+### Principais Projetos
 
-• Especialista em Fundamentos Lean        –   Voitto
-• Certificação em Yellow Belt Six Sigma   –   Voitto e 6sigmaStudy
-• Certificação em Scrum Fundamentals      –   SCRUMStudy
-• Certificação em Marketing Digtal        –   Rock Content
+[Portifólio e Blog](www.google.com) (em construção)
 
-• CREA:   04.0.0000249139/D
-•  CNH:   Categoria  A
-```
+[APP web - Gerador de bibliotecas para microcontroladores](www.google.com) (em construção)
+
+[guia para dietas e Receitas Fits](www.google.com) (em construção)
+
+[Projetinhos variados](www.google.com) (A maioria feita como exercícios de fixação)
