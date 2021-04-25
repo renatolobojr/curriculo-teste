@@ -11,5 +11,5 @@ Me aperfeiçoando no mundo Web.
 [Portifólio e Blog - Node.js e Hexo](https://github.com/renatolobojr/renatolobojr.github.io) (em construção)  
 [APP web para microcontroaldores e com SEO - AMP framework](https://github.com/renatolobojr/public-libraries-for-MPLAB-X) (em construção)  
 [Guia para dietas e Receitas Fits - Pure CSS e Vanilla.js](https://github.com/renatolobojr/Dieta) (em construção)  
-[Projetinhos variados](https://github.com/renatolobojr/projetos-simples-exemplos) (A maioria feita como exercícios de fixação)
-[Algumas APIs] (https://github.com/renatolobojr/public-apis) (Estudando de como utilizar em projetos)
+[Projetinhos variados](https://github.com/renatolobojr/projetos-simples-exemplos) (A maioria feita como exercícios de fixação)  
+[Algumas APIs](https://github.com/renatolobojr/public-apis) (Estudando de como utilizar em projetos)
