@@ -1,10 +1,16 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/renatolobo-engenheiro/)](https://www.linkedin.com/in/renatolobo-engenheiro/)
  
-Engenheiro de Controle e Automação  
-Pós-graduando em Gestão de Projetos
 
-Me aperfeiçoando no mundo Web.
+### Eng. de C. e Automação com pós em G. de Projetos 
+tentando me especilizar na stack .NET
+
+<div align="center">
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renatolobojr&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renatolobojr&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+
 
 ### Principais Projetos
 
