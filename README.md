@@ -17,7 +17,7 @@ Meu primeiro contato com programação foi aos 13 anos tentando aprender a progr
             <td>MSX</td>
             <td>Computador portátil CASIO</td>
             <td>App de discagem do Windows XP</td>
-            <td>Palaca de prototipação Arduino</td>
+            <td>Placa de prototipação Arduino</td>
             <td>Kit de gravação de chips do tipo PIC</td>
         </tr>
     </tbody>
